@@ -8,11 +8,9 @@ nishi..
 <br>
 
 ---
-okay so basically
-
-i made a game 👍
-
-and now YOU have to suffer through it
+okay so basically<br>
+i made a game 👍<br>
+and now YOU have to suffer through it<br>
 
 ---
 
@@ -50,10 +48,10 @@ and now YOU have to suffer through it
 
 ## final message
 
-play the game
+play the game<br>
 or don’t
 
-but if you die it's not my fault
+but if you die it's not my fault<br>
 it's your gaming chair
 
 enjoy :3
