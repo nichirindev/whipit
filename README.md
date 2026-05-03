@@ -20,6 +20,9 @@ and now YOU have to suffer through it<br>
 * yes that's it
 * i am not adding more controls go cry about it
 
+*for those who cannot find the link : 
+nichirindev.github.io/whipit/<br>
+
 ---
 
 ## what is even happening
