@@ -9,9 +9,7 @@ nishi..
 
 ---
 okay so basically
-
 i made a game 👍
-
 and now YOU have to suffer through it
 
 ---
@@ -44,7 +42,7 @@ and now YOU have to suffer through it
 * survive
 * don't die
 * become gaming legend
-* or uninstall in 2 minutes (most realistic outcome)
+* or leave the site in 2 minutes (most realistic outcome)
 
 ---
 
