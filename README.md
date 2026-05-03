@@ -1,5 +1,13 @@
 # WhipIT
 
+mail: whipit@yourmom.com<br>
+Dear User,<br>
+I am writing this readme.md stating that "I look forward to the fact that you will play this game".<br>
+Yours lovely<br>
+nishi..
+<br>
+
+---
 okay so basically
 
 i made a game 👍
@@ -49,10 +57,3 @@ but if you die it's not my fault
 it's your gaming chair
 
 enjoy :3
-
-
-Dear User,
-I am writing this readme.md stating that "I look forward to the fact that you will play this game".<br>
-Yours lovely<br>
-nishi..
-<br>
