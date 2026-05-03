@@ -52,7 +52,7 @@ enjoy :3
 
 
 Dear User,
-I am writing this readme.md stating that "I look forward to the fact that you will play this game".
-Yours lovely
+I am writing this readme.md stating that "I look forward to the fact that you will play this game".<br>
+Yours lovely<br>
 nishi..
 <br>
