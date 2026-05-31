@@ -1,6 +1,6 @@
 # WhipIT
 
-mail: whipit@yourmom.com<br>
+mail: whipit@yourfavgame.com<br>
 Dear User,<br>
 I am writing this readme.md stating that "I look forward to the fact that you will play this game".<br>
 Yours lovely<br>
